@@ -18,3 +18,5 @@ git add gitcommands.R
 # Commit changes (type comments in notepad that pops up)
 git commit -a
 
+# Move changes to git repo
+git push
