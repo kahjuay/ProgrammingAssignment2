@@ -15,3 +15,6 @@ git status
 # Add changed file
 git add gitcommands.R
 
+# Commit changes (type comments in notepad that pops up)
+git commit -a
+
