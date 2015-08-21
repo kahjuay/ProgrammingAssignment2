@@ -4,8 +4,13 @@
 ## Write a short comment describing this function
 
 makeCacheMatrix <- function(x = matrix()) {
-    print(x)
-    print(solve(x))
+    #print(x)
+    #print(solve(x))
+    #get <- function(x) {
+    #    print (x)
+    #}
+    get <- function() x
+    list(get=get)
 }
 
 
