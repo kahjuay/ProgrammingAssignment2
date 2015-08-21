@@ -27,6 +27,8 @@ cachemean <- function(x, ...) {
 ##function plusFunctions stores two functions:
 ## plustwo() : sums 2 to the given value
 ## plusthree() : sums 3 to the given value
+# https://github.com/DanieleP/PA2-clarifying_instructions
+
 plusFunctions <- function (){
     plustwo <- function(y) {
         x <- y + 2
